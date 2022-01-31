@@ -21,9 +21,7 @@ body {
 
 
 }
-#contact {
 
-}
 
 .social-icon {
     transition: color #b4b6b7 ;
@@ -41,6 +39,11 @@ body {
     background-color: #273036 ;
     padding: 40px ;
     text-decoration: none;
+}
+.card {
+    background-color:#b4b6b7;
+    border: none;
+  
 }
 
 /* #skils {
