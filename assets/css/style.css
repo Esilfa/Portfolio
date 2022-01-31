@@ -1,0 +1,78 @@
+body {
+   font-family: 'Source Code Pro', monospace;
+   justify-content: center;
+}
+.navbar{
+    background-color: #273036;
+}
+
+.jumbotron {
+    padding-top: 8rem ;
+    /* padding-bottom: 10px; */
+    background-color: #b4b6b7;
+    
+    
+}
+#about {
+    margin-top: 50px;
+}
+#projects {
+    background-color: #b4b6b7;
+
+
+}
+#contact {
+
+}
+
+.social-icon {
+    transition: color #b4b6b7 ;
+    color:b black;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 20px 20px;
+    border-radius: 50%;
+    
+}
+.social-icon:hover{
+    flood-color: #b4b6b7;
+}
+.footer {
+    background-color: #273036 ;
+    padding: 40px ;
+    text-decoration: none;
+}
+
+/* #skils {
+    margin: 30px;
+    right:500px;
+    height: 100px; */
+
+
+
+/* 
+.main{
+background-color: white;
+border-style: solid;
+width: 10;
+height: 300px;
+position: relative;
+padding:initial;
+margin-top: -1800px;
+margin-left: 300px;
+margin-right: 300px;
+
+}
+.lead {
+    background-color: white;
+border-style: solid;
+width: 20;
+height: 600px;
+position: relative;
+padding:initial;
+margin-top: -1500px;
+margin-left: 300px;
+margin-right: 300px;
+
+
+} */
